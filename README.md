@@ -1,6 +1,6 @@
 Project name: English premire league
 
-This is my first react router app and i'm so excited to tell you about it.
+This is my first react router web app and i'm so excited to tell you about it.
 
 First reason of my excitement is... first time i have used react router feature in this app and it was so difficult to me.
 And the Second reason is... it takes almost two days for building this app and it was so frustrating period to me to build a react app using router, react hooks and many more complex methods of reactjs. After completing this project i took a deep breath.

@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.details-banner img{
+    height: 250px;
+
+}
+
+.details-banner{
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    background-position: center;
+    background-origin: border-box;
+}
+
+.full-details-container{
+    background-color: navy;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.gender-image-div img{
+    height: 190px;
+}
+
+.gender-image-div{
+    padding: 5px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.details-info{
+    background-color: slateblue;
+    border-radius: 10px;
+}
+
+.social-media-link img{
+    height: 50px;
+}
+
+.social-media-link{
+    padding-top: 30px;
+    text-align: center;
+}

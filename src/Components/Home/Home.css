@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner-image-div img{
+    height:280px;
+    width: 100%;
+}
+
+.teams-container{
+    background-color: rgb(124, 162, 235);
+    padding-top: 40px;
+}
+
+.banner-image-div{
+    background-color: rgb(124, 162, 235);
+}
+
+.teams-container{
+}
+
+.website-title{
+    background-color: rgb(124, 162, 235);
+    height: 120px;
+}
+
+.website-title h1{
+    font-size: 50px;
+    color: rgb(61, 25, 91);
+    display: inline-block;
+    margin-top: 28px;
+}
+
+.website-title img{
+    height: 150px;
+    width: 300px;
+    float: left;
+    padding-bottom: 30px;
+}
